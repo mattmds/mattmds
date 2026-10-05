@@ -25,7 +25,8 @@ Atuo na criação de frameworks de automação E2E, testes de API, estratégias 
 ![AWS Kiro](https://img.shields.io/badge/AWS%20Kiro-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-#### Linguagens
+#### Linguagens & Banco de Dados
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
