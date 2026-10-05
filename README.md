@@ -1,6 +1,6 @@
 # Olá, me chamo Matheus Mendes 👋
 
-**Quality Assurance Lead | Test Automation & Quality Engineering**
+**Líder de Engenharia de Qualidade, especializado em Automação de Testes, Arquitetura de QA e Estratégias de CI/CD.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-mendes-qa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mth.mds@gmail.com)
@@ -8,9 +8,9 @@
 
 ### 🎯 Sobre Mim
 
-Profissional com 6 anos de atuação em **Garantia de Qualidade de Software (QA)** e **Desenvolvimento de Testes Automatizados**. Tenho como missão alinhar a excelência técnica da engenharia de software às necessidades reais do negócio, assegurando entregas robustas em ambientes ágeis.
+Senior QA Engineer com 6 anos de atuação em **Garantia de Qualidade de Software (QA)** e **Desenvolvimento de Testes Automatizados**. Tenho como missão alinhar a excelência técnica da engenharia de software às necessidades reais do negócio, assegurando entregas robustas em ambientes ágeis.
 
-Atuo na criação de frameworks de automação E2E, testes de API, estratégias de integração contínua (CI/CD) e liderança técnica de times de QA.
+Atuo na criação de frameworks de automação E2E com sólida vivência em soluções conversacionais (chatbots com IA), testes de API, estratégias de integração contínua (CI/CD) e liderança técnica de times de QA.
 
 - ⚙️ **Foco:** Automação de Testes E2E e APIs, Frameworks agênticos, Estratégia de QA, Integração Contínua e Observabilidade.
 - 📐 **Práticas:** Page Object Model (POM), BDD, Clean Code, Contract Testing e Shift-Left Testing.
