@@ -33,9 +33,3 @@ Atuo na criação de frameworks de automação E2E, testes de API, estratégias 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattmds&show_icons=true&theme=radium&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattmds&layout=compact&theme=radium" />
-</p>
