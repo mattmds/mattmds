@@ -48,8 +48,11 @@ Atuo na criação de frameworks de automação E2E com sólida vivência em solu
 
 ### 🚀 Projetos em Destaque
 
-#### 🔄 **[Testes Chatbot com IA - Suite de Testes E2E com Cypress](https://github.com/mattmds/chatbot-ia-testing-cypress)**
+#### ✨ **[Chatbot com IA - Suite de Testes E2E com Cypress](https://github.com/mattmds/chatbot-ia-testing-cypress)**
   Projeto de automação ponta a ponta focado na validação de API, relevancia e.contexto de respostas de LLM aplicando padrões como Page Object Model (POM)
+
+  #### 🌐 **[Testes de API com REST Assured, Integração Contínua e Quality Gates](https://github.com/mattmds/api-testing-rest-assured-cicd)**
+  Projeto de automação de testes de API em JAVA/REST Assured, contendo 4 cenários para validação da API de um Sistema de Reservas de Hotel, incluindo validação de contrato com JSON Schema, inclusão e exclusão de reservas e consulta de reservas inexistentes. O projeto conta ainda com integração Contínua com Github Actions com aplicação de Quality Gates no PR para branch principal.
 
 ---
 
