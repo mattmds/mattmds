@@ -49,6 +49,9 @@ Atuo na criação de frameworks de automação E2E com sólida vivência em solu
 
 ### 🚀 Projetos em Destaque
 
+#### ✨ **[Testes em SaaS B2B com Playwright](https://github.com/mattmds/playwright-saas-b2b)**
+  Framework de automação E2E em Playwright e TypeScript, usando o OrangeHRM Open Source como aplicação-alvo. A suíte cobre autenticação, fluxos smoke, regressão visual, acessibilidade e tratamento de falhas de rede.
+  
 #### ✨ **[Chatbot com IA - Suite de Testes E2E com Cypress](https://github.com/mattmds/chatbot-ia-testing-cypress)**
   Projeto de automação ponta a ponta focado na validação de API, relevancia e.contexto de respostas de LLM aplicando padrões como Page Object Model (POM)
 
