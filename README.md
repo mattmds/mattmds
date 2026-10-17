@@ -1,16 +1,12 @@
-# Olá, me chamo Matheus Mendes 👋
+# Matheus Mendes | Senior QA Engineer
 
-**Líder de Engenharia de Qualidade, especializado em Automação de Testes, Arquitetura de QA e Estratégias de CI/CD.**
+Engenheiro de Qualidade de Software com foco em automação de testes, arquitetura de QA e integração contínua.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-mendes-qa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mth.mds@gmail.com)
 [![Location](https://img.shields.io/badge/Minas%20Gerais%2C%20Brazil-107C41?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
-### 🎯 Sobre Mim
-
-Senior QA Engineer com 6 anos de atuação em **Garantia de Qualidade de Software (QA)** e **Desenvolvimento de Testes Automatizados**. Tenho como missão alinhar a excelência técnica da engenharia de software às necessidades reais do negócio, assegurando entregas robustas em ambientes ágeis.
-
-Atuo na criação de frameworks de automação E2E com sólida vivência em soluções conversacionais (chatbots com IA), testes de API, estratégias de integração contínua (CI/CD) e liderança técnica de times de QA.
+Este perfil reúne projetos práticos de automação de UI e API, testes E2E, validação de contratos e pipelines de CI/CD. Os repositórios demonstram a aplicação de tecnologias como Playwright, TypeScript, Cypress, Java, Rest Assured e GitHub Actions em diferentes cenários de qualidade de software.
 
 - ⚙️ **Foco:** Automação de Testes E2E e APIs, Frameworks agênticos, Estratégia de QA, Integração Contínua e Observabilidade.
 - 📐 **Práticas:** Page Object Model (POM), BDD, Clean Code, Contract Testing e Shift-Left Testing.
