@@ -54,6 +54,9 @@ Este perfil reúne projetos práticos de automação de UI e API, testes E2E, va
   #### 🌐 **[Testes de API com REST Assured, Integração Contínua e Quality Gates](https://github.com/mattmds/api-testing-rest-assured-cicd)**
   Projeto de automação de testes de API em JAVA/REST Assured, contendo 4 cenários para validação da API de um Sistema de Reservas de Hotel, incluindo validação de contrato com JSON Schema, inclusão e exclusão de reservas e consulta de reservas inexistentes. O projeto conta ainda com integração Contínua com Github Actions com aplicação de Quality Gates no PR para branch principal.
 
+  #### ✨ **[Testes E2E com Ruby, Cucumber e Selenium, QA Assistida por IA, Integração Contínua com IA e Quality Gate](https://github.com/mattmds/ia-assisted-qa)**
+  Projeto de automação de testes E2E utilizando Selenium + Cucumber em Ruby, demonstrando como podemos otimizar processos de QA e código de automação com criação de features/BDDs e steps/Page Objects com IA, além de incorportar IA diretamente no CI com análises de falhas e sugestões de correção diretamente no comentário do Pull Request.
+
 ---
 
 ### 📊 Estatísticas do GitHub
